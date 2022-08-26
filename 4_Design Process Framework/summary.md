@@ -13,3 +13,10 @@ Adapun 2 poin penting pada section 4 ini yang bisa saya rangkum sesuai penjelasa
 	* Hook Model
 
 **Penjelasan Mentor**
+- Penjelasan detail mengenai framework Design Thinking beserta step-step yang ada didalamnya. The design thinking framework didasarkan pada filosofi bahwa pendekatan langsung dan berpusat pada pengguna untuk pemecahan masalah mendorong inovasi; pada gilirannya, inovasi dapat mengarah pada diferensiasi dan keunggulan kompetitif. Adapun goals dari The design thinking framework adalah mengidentifikasi strategi dan solusi alternatif yang tidak langsung terlihat dengan tingkat pemahaman awal yang dilakukan.
+- Berikut merupakan output dari tiap proses yang ada di framework Design Thinking:
+	* Define : Output; User Persona dan User Flow (Jangan terlalu ribet, cantumkan saja poin pentingnya saja)
+	* Ideate : Output; User Flow, User Porses, Wireframe (bisa setelah wireframe dilakukan user testing sebelum ke proses UI design)
+	* Prototype : Output; UI Design, Prototyping
+	* Test : Output; testing moderate (testing manual secara langsung) and unmoderate (menggunakan maze), matrix testing, usability testing , Native usability testing (automation coding, dll)
+

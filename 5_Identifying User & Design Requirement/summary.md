@@ -1,1 +1,7 @@
 # Rangkuman section 5 - Identifying User & Design Requirement
+Di section 5 ini yang mempelajari tentang Identifying User & Design Requirement yang mana poin penting bahasan disini adalah menerangkan metode / cara serta jenis user persona dalam dunia ui ux research. Adapun 3 poin penting pada section 5 ini yang bisa saya rangkum, berikut rangkumannya :
+
+1. User persona sangat penting dalam dunia ui ux research karena kita wajib memahami user kita. Dengan menggambarkan pengguna secara nyata, seorang desainer produk bisa lebih mudah memahami mereka (ekspektasi, kebutuhan, serta solusi dari user). Selain itu user persona sangat membantu dalam menggambarkan hasil research yang telah dilakukan hingga dalam pengambilan keputusan.
+2. Jenis-jenis user persona dan jenis reseachnya. Secara umum user persona dibagi menjadi 2, persona marketing dan persona interaktif. Sedangkan untuk jenis researchnya juga terbagi menjadi 2, research kualitatif dan research kuantitatif. Kedua jenis research tersebut berbeda penggunannya sesuai kebutuhan dan tujuan dari company. Cara pengumpulan informasinya juga berbeda, yang mana research kualitatif berfokus kepada kualitas dari informasi yang didapatkan meski jumlah narasumber sedikit jika dibandingkan dengan metode kuantitatif. Salah satu bentuk research kualitatif adalah Emphaty Interview.
+3. Ada juga output lain dari materi ini, yaitu kita bisa membuat linearitas dari permasalahan, solusi, affinity diagram, dan prioritization idea dari studi kasus permasalahan yang diteliti.
+

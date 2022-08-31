@@ -1,1 +1,1 @@
-# Rangkumang Section 6 - Redefining Problem & Conceptual Model
+# Rangkuman Section 6 - Redefining Problem & Conceptual Model

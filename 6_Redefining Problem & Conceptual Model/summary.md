@@ -8,5 +8,5 @@ Di section 6 ini yang mempelajari tentang Redefining Problem & Conceptual Model 
   - UX Engineer
   - Interaction Designer
   - UX Reseacher
-  Dari perkerjaan-pekerjaan tersebut ada beberapa aplikasi yang sering digunakan oleh mereka, diantaranya seperti; Google Docs, Google Sheets (Dokumentasi dan Analisa); Sketch, Figma, Adobe XD (Design & Prototyping); Zeplin (Handover); Maze dan Hotjar (Online Testing)
+  * Dari perkerjaan-pekerjaan tersebut ada beberapa aplikasi yang sering digunakan oleh mereka,   diantaranya seperti; Google Docs, Google Sheets (Dokumentasi dan Analisa); Sketch, Figma, Adobe XD (Design & Prototyping); Zeplin (Handover); Maze dan Hotjar (Online Testing)
 3.  

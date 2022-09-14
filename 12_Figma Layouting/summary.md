@@ -1,5 +1,5 @@
 # Rangkuman Section 12 - Figma Layouting
-Di section 12 ini yang mempelajari tentang Figma Layouting yang mana poin penting bahasan disini adalah masih menerangkan hal-hal yang berkaitan dengan penggunaan dan ilmu-ilmu yang lebih advance dari section 10 lalu dalam penggunaan figma bagi UI/UX designer. Adapun 3 poin penting pada section 12 ini yang bisa saya rangkum, berikut rangkumannya :
+Di section 12 ini yang mempelajari tentang Figma Layouting yang mana poin penting bahasan disini adalah masih menerangkan hal-hal yang berkaitan dengan penggunaan dan ilmu-ilmu yang lebih advance dari section 11 lalu dalam penggunaan figma bagi UI/UX designer. Adapun 3 poin penting pada section 12 ini yang bisa saya rangkum, berikut rangkumannya :
 1. Pengertian Auto Layout adalah sebuah properti yang ditambahkan pada frame atau layout (ada fitur otomatis)
 2. Poin penting dalam auto layout di figma
       * Vertical direction: Menambahkan axis Y pada elemen yang ada pada auto layout.

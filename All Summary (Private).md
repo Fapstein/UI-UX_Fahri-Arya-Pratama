@@ -82,18 +82,18 @@ Fauzan :
 
 ## Link referensi
 - Referensi mockup / wireframe :
-https://mobbine.com
-https://chamjo.design
-https://ui-patterns.com
+    * https://mobbine.com
+    * https://chamjo.design
+    * https://ui-patterns.com
 
 - Referensi patokan Design System :
-https://material.io
+    * https://material.io
 
 - Referensi color :
-https://colors.eva.design
-https://color-name.com
-https://chir.ag
+    * https://colors.eva.design
+    * https://color-name.com
+    * https://chir.ag
 
 - Layer Management :
-Atomic Design 
-Design Token
+    * Atomic Design 
+    * Design Token

@@ -3,14 +3,14 @@ Di section 16 ini yang mempelajari tentang Building Portofolio yang mana poin pe
 
 Portofolio diperlukan oleh rekruiter, dokumen portofolio tidak hanya menampilkan hasil karya saja tanpa proses (kemampuan bercerita) dalam portofolio tersebut karena ini mengukur kemampuan desainer.
 
-** 1. Struktur portofolio UX Designer **
-Terdapat aspek yang perlu dicantumkan terdiri dari:
+**1. Struktur portofolio UX Designer**
+* Terdapat aspek yang perlu dicantumkan terdiri dari:
 - cara berpikir desainer
 - cara penyelesaian (Problem solving)
 - proses pembuatan desain
 
 
-** 2. Kerangka portofolio Designer **
+**2. Kerangka portofolio Designer**
 - beri konteks portofolio: judul project, deskripsi, goals, role kita.
 - penjelasan masalah: menceritakan masalah yang diselesaikan.
 - proses desain: menjelaskan detail tentang cara berpikir dan mendesain yang dilalui.
@@ -18,7 +18,7 @@ Terdapat aspek yang perlu dicantumkan terdiri dari:
 - tantangan dan dampak yang dihasilkan: 
 
 
-** 3. Prinsip sebuah UI/UX Designer **
+**3. Prinsip sebuah UI/UX Designer**
 - portofolio mudah diakses (behance, pinterest, medium, website, dll)
 - memberikan keyword desain
 - komunikasikan dengan baik melalui portofolio

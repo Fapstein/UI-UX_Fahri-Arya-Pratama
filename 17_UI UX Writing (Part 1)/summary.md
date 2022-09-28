@@ -5,7 +5,8 @@ Di section 17 ini yang mempelajari tentang UI UX Writing yang mana poin penting 
   - Instruksi yang menyertai tindakan
   - Feedback setelah user mengambil tindakan
 
-2. Peran dan Dampak Microcopy di UX/
+2. Peran dan Dampak Microcopy di UX
+
 **Peran**
   - Trennya adalah membuat interface itu "clean"
   - Jika kalian ingin membuat interface yang terdengar “manusia” dan berhubungan dengan orang yang menggunakannya, kalian perlu kata-kata (copies).

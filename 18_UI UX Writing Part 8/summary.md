@@ -1,5 +1,6 @@
 # Rangkuman Section 18 - UI UX Writing (Part 2)
 Di section 18 ini yang mempelajari tentang UI UX Writing yang mana poin penting bahasan disini adalah masih menerangkan pentingnya UI UX Writing agar produk aplikasi yang dirancang terasa memliki interaksi dengan manusia bukan robot dan materi lanjutan dari section 17. Adapun 3 poin penting pada section 16 ini yang bisa saya rangkum, berikut rangkumannya :
+
 **Mengapa sebagai desainer itu harus bisa menulis?**
 Menulis dapat membuat kamu menjadi seorang desainer yang…
   - Lebih pandai

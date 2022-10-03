@@ -16,8 +16,10 @@ Hal lain yang juga dapat meningkatkannya:
 3. Save steps
 4. Gunakan permohonan maaf apabila terjadi kesalahan (eror message, dll)
 
-Website dashboard
-Pengertian: Tampilan visual yang berisi informasi penting sesuai kebutuhan, memudahkan pengguna melihat data banyak dengan mudah. Data mayoritasnya bersifat dinamis secara real time
+Website dashboard : Tampilan visual yang berisi informasi penting sesuai kebutuhan, memudahkan pengguna melihat data banyak dengan mudah. Data mayoritasnya bersifat dinamis secara real time
+
 Pertimbangan mendesain: tentukan tujuan (siapa saja yang menggunakannya, perlu dibuat berapa versi), data (dapat dilihat dari waktu ke waktu, banyaknya data yang dimiliki, ), konteks pengguna (perhatian pengguna, pelaporannya, hal yang ditampilkan, nilai tunggal yang hirarki tertinggi, skenario), prioritas (prioritaskan data), relevansi data (cara yang lebih baik dalam menyampaikan).
+
 Anatomi: navigasi (menjelajahi tujuan halaman), area konten (diisi data yang penting), filter (data yang lebih efektif dan efisien), section (beberapa bagian dengan kepentingan yang berbeda), modul (data yang berbentuk angka atau diagram).
+
 Chart dan grafik pattern: gunakan warna yang variasi dan sesuai dengan kondisi (aksesibilitas), gunakan delta menunjukkan makna data, responsif (tampilan mobile dan website), data label (grafik) adalah inti dalam dashboard, bisa dicustom membuat dasboard sendiri, toggling variable jadi pengguna bisa aktif atau menonaktifkan variabel tertentu pada diagram

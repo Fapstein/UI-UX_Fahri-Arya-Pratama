@@ -1,4 +1,6 @@
-Di section 18 ini yang mempelajari tentang UI UX Writing yang mana poin penting bahasan disini adalah masih menerangkan pentingnya UI UX Writing agar produk aplikasi yang dirancang terasa memliki interaksi dengan manusia bukan robot dan materi lanjutan dari section 17. Adapun 3 poin penting pada section 16 ini yang bisa saya rangkum, berikut rangkumannya :
+# Rangkuman Section 19 - Web Guides
+
+Di section 19 ini yang mempelajari tentang Web Guides yang mana poin penting bahasan disini adalah masih menerangkan poin penting yang harus dipelajari dan dipahami saat membuat UI UX Design pada dimensi website terutama pada halaman Dashboard. Adapun 3 poin penting pada section 16 ini yang bisa saya rangkum, berikut rangkumannya :
 
 **10 Teori web guides oleh Steve Kurg:**
 
@@ -22,10 +24,8 @@ Di section 18 ini yang mempelajari tentang UI UX Writing yang mana poin penting 
 
 
 **Hal yang harus diperhatikan dan dimengerti saat membuat UI Design pada website**
-Website dashboard : Tampilan visual yang berisi informasi penting sesuai kebutuhan, memudahkan pengguna melihat data banyak dengan mudah. Data mayoritasnya bersifat dinamis secara real time
 
-Pertimbangan mendesain: Tentukan tujuan (siapa saja yang menggunakannya, perlu dibuat berapa versi), data (dapat dilihat dari waktu ke waktu, banyaknya data yang dimiliki, ), konteks pengguna (perhatian pengguna, pelaporannya, hal yang ditampilkan, nilai tunggal yang hirarki tertinggi, skenario), prioritas (prioritaskan data), relevansi data (cara yang lebih baik dalam menyampaikan).
-
-Anatomi: Navigasi (menjelajahi tujuan halaman), area konten (diisi data yang penting), filter (data yang lebih efektif dan efisien), section (beberapa bagian dengan kepentingan yang berbeda), modul (data yang berbentuk angka atau diagram).
-
-Chart dan grafik pattern: Gunakan warna yang variasi dan sesuai dengan kondisi (aksesibilitas), gunakan delta menunjukkan makna data, responsif (tampilan mobile dan website), data label (grafik) adalah inti dalam dashboard, bisa dicustom membuat dasboard sendiri, toggling variable jadi pengguna bisa aktif atau menonaktifkan variabel tertentu pada diagram
+- Website dashboard : Tampilan visual yang berisi informasi penting sesuai kebutuhan, memudahkan pengguna melihat data banyak dengan mudah. Data mayoritasnya bersifat dinamis secara real time
+- Pertimbangan mendesain: Tentukan tujuan (siapa saja yang menggunakannya, perlu dibuat berapa versi), data (dapat dilihat dari waktu ke waktu, banyaknya data yang dimiliki, ), konteks pengguna (perhatian pengguna, pelaporannya, hal yang ditampilkan, nilai tunggal yang hirarki tertinggi, skenario), prioritas (prioritaskan data), relevansi data (cara yang lebih baik dalam menyampaikan).
+- Anatomi: Navigasi (menjelajahi tujuan halaman), area konten (diisi data yang penting), filter (data yang lebih efektif dan efisien), section (beberapa bagian dengan kepentingan yang berbeda), modul (data yang berbentuk angka atau diagram).
+- Chart dan grafik pattern: Gunakan warna yang variasi dan sesuai dengan kondisi (aksesibilitas), gunakan delta menunjukkan makna data, responsif (tampilan mobile dan website), data label (grafik) adalah inti dalam dashboard, bisa dicustom membuat dasboard sendiri, toggling variable jadi pengguna bisa aktif atau menonaktifkan variabel tertentu pada diagram
